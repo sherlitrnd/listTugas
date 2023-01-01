@@ -24,6 +24,6 @@
     "popper.js": "^1.16.1",
     "sequelize": "^6.2.4",
     "vue-fragment": "^1.5.1",
-    "webpack": "^4.43.0"
+    "webpack": "^5.75.0"
   }
 }
